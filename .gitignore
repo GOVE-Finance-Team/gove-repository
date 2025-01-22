@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GOVE.Repository/GOVE.Repository/bin/Debug/net8.0
+/GOVE.Repository/GOVE.Repository/obj
